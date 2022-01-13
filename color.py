@@ -1,0 +1,6 @@
+class Color:
+    MAIN = 0XFF4500
+    RED = 0XFF0000
+    BLUE = 0x0000FF
+    GREEN = 0x00FF00
+    WARN = 0xFFFFA8
